@@ -1,0 +1,18 @@
+# This file is used to override language statistics
+# Normalize line endings
+*.bat text eol=crlf
+Cargo.lock linguist-generated
+src/**/*.js linguist-detectable
+*.woff binary
+*.jpeg binary
+
+*.html linguist-vendored
+*.min.css linguist-generated
+
+*.ico binary
+
+*.png binary
+
+*.htm linguist-vendored
+
+# eof 4fb92406
